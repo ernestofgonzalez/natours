@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Project from [Advanced CSS and Sass: take your CSS to the next level!](https://www.udemy.com/course/advanced-css-and-sass/) course on udemy.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnestoFGonzalez/natours.git"
+  },
+  "author": "Ernesto F. González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnestoFGonzalez/natours/issues"
+  },
+  "homepage": "https://github.com/ErnestoFGonzalez/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
