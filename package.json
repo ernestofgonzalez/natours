@@ -4,7 +4,7 @@
   "description": "Project from [Advanced CSS and Sass: take your CSS to the next level!](https://www.udemy.com/course/advanced-css-and-sass/) course on udemy.com",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
